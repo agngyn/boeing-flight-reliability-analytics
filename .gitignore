@@ -203,5 +203,32 @@ cython_debug/
 
 # Marimo
 marimo/_static/
+
+# Project data (keep raw data out of git)
+data/raw/
+data/raw/**
+
+# Large data / local databases
+*.zip
+*.7z
+*.gz
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.db
+*.sqlite
+*.sqlite3
+
+# BI / exports (optional)
+powerbi/*.pbix
+powerbi/*.pbit
+*.pbix
+*.pbit
+
+# OS files
+.DS_Store
+Thumbs.db
+
 marimo/_lsp/
 __marimo__/
