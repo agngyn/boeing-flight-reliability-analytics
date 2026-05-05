@@ -1,5 +1,5 @@
 # boeing-flight-reliability-analytics
-Analyzing public flight on-time data to find where delays happen most, what causes them, and building a KPI dashboard plus an on-time metric audit.
+Uses BTS on‑time data Jan 2025 – Jan 2026, cross‑referenced with the FAA aircraft registry, to show U.S. Boeing operators’ reliability gaps, estimate their cost, and frame a $90M+ recurring services revenue pipeline for Boeing.
 
 ## Overview
 This project analyzes U.S. flight on-time performance data to identify delay hotspots, understand major delay drivers, and validate the on-time KPI definition through a recalculation/audit workflow.
